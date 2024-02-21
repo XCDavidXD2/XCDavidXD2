@@ -23,16 +23,7 @@
 <a href="https://twitter.com/XCDavidXD1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elhanif93" height="30" width="40" /></a>
  <a href="https://www.instagram.com/xcdavidbxd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elhani__293" height="30" width="40" /></a>
  <a href="https://www.tiktok.com/@xcdavidxd" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/tik-tok-logo-png/tik-tok-how-use-tiktok-create-cool-videos-with-iphone-14.png" alt="elhani" height="40" width="50" /></a>
-
--------
-<details>
-<summary>Preview  </summary>
-
-[name](filename 'h-fares.md')
-
-</details>
-
- ------
+ -----
 Credit: [h-fares](https://github.com/h-fares)
 
 Last Edited on: 01/05/2022
