@@ -17,6 +17,12 @@
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/Java"><img alt="JAVA" src="https://img.shields.io/badge/JAVA-PINK"></a>
 <img alt="Night Coding" src="https://media.tenor.com/TyhWL7gJwPgAAAAi/peppo-dance.gif" width="100px" height="200px" align="right"/>
 
+<h2> / about me /</h2>
+
+- ⭐ currently working on **web-development**
+- 💀 mostly working on **private repositories**
+- 👾 a **student** working his way around things
+
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=h-fares&show_icons=true&theme=dark&locale=en&layout=compact" alt="h-fares" align=center/></p>
 
