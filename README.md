@@ -2,12 +2,12 @@
 
 <img alt="Night Coding" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczVqM3F6cGNpeWg3ZGEyZWVjNnAwNTV0eTA3MGJpc3JiaXg0cHB6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6rOhtOcGJapBECjMkb/giphy.gif" width=100% height="300px" align="center"/>
 
+<h2> / about me /</h2>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect me
-<p align="left">
-<a href="https://twitter.com/XCDavidXD1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elhanif93" height="30" width="40" /></a>
- <a href="https://www.instagram.com/xcdavidbxd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elhani__293" height="30" width="40" /></a>
- <a href="https://www.tiktok.com/@xcdavidxd" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/tik-tok-logo-png/tik-tok-how-use-tiktok-create-cool-videos-with-iphone-14.png" alt="elhani" height="40" width="50" /></a>
+- ⭐ currently working on **web-development**
+- 💀 mostly working on **private repositories**
+- 👾 a **student** working his way around things
+
 
 ## <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="45px"> Languages
 
@@ -18,18 +18,11 @@
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/Java" rel="nofollow"><img alt="JAVA" src="https://camo.githubusercontent.com/b7e6a19a9a0f31990ffd7f02a109bd2943399c3bfa723b708cf3a708caff9f5a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a4156412d50494e4b" data-canonical-src="https://img.shields.io/badge/JAVA-PINK" style="max-width: 100%;"></a>
     <animated-image data-catalyst="" style="float: right; width: 100px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5805480959c8789597e4e82278d6d7cfca9d55b739b3f2a74fa01c299db16e5f/68747470733a2f2f6d656469612e74656e6f722e636f6d2f547968574c37674a77506741414141692f706570706f2d64616e63652e676966" data-target="animated-image.originalLink"><img alt="Night Coding" src="https://camo.githubusercontent.com/5805480959c8789597e4e82278d6d7cfca9d55b739b3f2a74fa01c299db16e5f/68747470733a2f2f6d656469612e74656e6f722e636f6d2f547968574c37674a77506741414141692f706570706f2d64616e63652e676966" height="200px" align="right" data-canonical-src="https://media.tenor.com/TyhWL7gJwPgAAAAi/peppo-dance.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
        
-
-<h2> / about me /</h2>
-
-- ⭐ currently working on **web-development**
-- 💀 mostly working on **private repositories**
-- 👾 a **student** working his way around things
-
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=h-fares&show_icons=true&theme=dark&locale=en&layout=compact" alt="h-fares" align=center/></p>
-
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=h-fares&show_icons=true&theme=dark&locale=en" alt="h-fares" align=center/></p>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect me
+<p align="left">
+<a href="https://twitter.com/XCDavidXD1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elhanif93" height="30" width="40" /></a>
+ <a href="https://www.instagram.com/xcdavidbxd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elhani__293" height="30" width="40" /></a>
+ <a href="https://www.tiktok.com/@xcdavidxd" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/tik-tok-logo-png/tik-tok-how-use-tiktok-create-cool-videos-with-iphone-14.png" alt="elhani" height="40" width="50" /></a>
 
 -------
 <details>
