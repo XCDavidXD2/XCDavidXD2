@@ -4,10 +4,8 @@
 
 <h2> / about me /</h2>
 
-- ⭐ currently working on **web-development**
-- 💀 mostly working on **private repositories**
+- ⭐ currently studying **DAM**
 - 👾 a **student** working his way around things
-
 
 ## <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="45px"> Languages
 
