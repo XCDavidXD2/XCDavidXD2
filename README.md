@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm David Correa</h1>
 
-<img alt="Night Coding" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width=100% height="300px" align="center"/>
+<img alt="Night Coding" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczVqM3F6cGNpeWg3ZGEyZWVjNnAwNTV0eTA3MGJpc3JiaXg0cHB6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6rOhtOcGJapBECjMkb/giphy.gif" width=100% height="300px" align="center"/>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=h-fares&label=Profile%20views&color=0e75b6&style=flat" alt="h-fares" /> </p>
 
@@ -8,11 +8,9 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect me
 <p align="left">
- 
+
 <a href="https://twitter.com/XCDavidXD1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elhanif93" height="30" width="40" /></a>
-
  <a href="https://www.instagram.com/xcdavidbxd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elhani__293" height="30" width="40" /></a>
-
  <a href="https://www.tiktok.com/@xcdavidxd" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/tik-tok-logo-png/tik-tok-how-use-tiktok-create-cool-videos-with-iphone-14.png" alt="elhani" height="40" width="50" /></a>
 
 ## <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="45px"> Languages
