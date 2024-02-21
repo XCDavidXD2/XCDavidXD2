@@ -9,13 +9,13 @@
  <a href="https://www.instagram.com/xcdavidbxd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elhani__293" height="30" width="40" /></a>
  <a href="https://www.tiktok.com/@xcdavidxd" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/tik-tok-logo-png/tik-tok-how-use-tiktok-create-cool-videos-with-iphone-14.png" alt="elhani" height="40" width="50" /></a>
 
-## <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="45px"> Languages
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-<a href="https://www.mysql.com/"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics"><img alt="HTML" src="https://img.shields.io/badge/HTML-14354C.svg?logo=html5&logoColor=black&color=orange"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS" src="https://img.shields.io/badge/CSS-14354C.svg?logo=css3&logoColor=white&color=blue"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/Java"><img alt="JAVA" src="https://img.shields.io/badge/JAVA-PINK"></a>
-<img alt="Night Coding" src="https://media.tenor.com/TyhWL7gJwPgAAAAi/peppo-dance.gif" width="100px" height="200px" align="right"/>
+<h2> / current skills / </h2>
+  
+- <h4> languages </h4>
+  <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" />
+  <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt = "ts" />
+  <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "html" />
+  <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "css" />
 
 <h2> / about me /</h2>
 
