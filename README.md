@@ -22,7 +22,7 @@
  <a href="https://www.instagram.com/xcdavidbxd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elhani__293" height="30" width="40" /></a>
  <a href="https://www.tiktok.com/@xcdavidxd" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/tik-tok-logo-png/tik-tok-how-use-tiktok-create-cool-videos-with-iphone-14.png" alt="elhani" height="40" width="50" /></a>
 
- <p><img src="https://github-readme-stats.vercel.app/api?username=h-fares&show_icons=true&theme=dark&locale=en" alt="h-fares" align=center/></p>
+ <p><img src="https://github-readme-stats.vercel.app/api?username=XCDavidXD2&show_icons=true&theme=dark&locale=en" alt="h-fares" align=center/></p>
  
  -----
 
