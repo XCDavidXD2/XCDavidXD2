@@ -1,6 +1,6 @@
 # David Correa
 
-##Idiomas: 
+## Idiomas
 
 [Ingles](README.md) | [Español](README-es.md)
 
