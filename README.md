@@ -2,7 +2,7 @@
 
  <h1 align="center">Hi 👋, I'm David Correa</h1>
  
-<h2> / Idioms: /</h2>
+<h2> / Idioms /</h2>
 
 [English](READNE.md)  |  [Spanish](README-es.md)
 
