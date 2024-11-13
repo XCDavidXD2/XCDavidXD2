@@ -31,27 +31,3 @@
 
 ### Lenguajes
 - JavaScript, SQL, HTML, CSS, JAVA
-
----
-
-<script>
-  const englishVersion = document.querySelector("#english-version");
-  const espanolVersion = document.querySelector("#espanol-version");
-
-  const languageLinks = document.querySelectorAll("a");
-
-  // Función para mostrar solo la sección correspondiente
-  function toggleLanguage() {
-    if (window.location.hash === "#english-version") {
-      englishVersion.style.display = "block";
-      espanolVersion.style.display = "none";
-    } else if (window.location.hash === "#espanol-version") {
-      englishVersion.style.display = "none";
-      espanolVersion.style.display = "block";
-    }
-  }
-
-  window.addEventListener("hashchange", toggleLanguage);
-
-  toggleLanguage();  // Inicializa la visibilidad según el hash actual
-</script>
