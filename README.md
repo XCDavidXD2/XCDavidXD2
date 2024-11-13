@@ -1,6 +1,8 @@
 # David Correa
 
-Idiomas: [English](READNE.md) |[Español](README-es.md)
+## Idioms
+
+[English](READNE.md) |[Spanish](README-es.md)
 
 ## Hi 👋, I'm David Correa
 
