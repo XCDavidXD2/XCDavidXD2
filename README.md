@@ -6,9 +6,11 @@
 
 <img alt="Night Coding" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczVqM3F6cGNpeWg3ZGEyZWVjNnAwNTV0eTA3MGJpc3JiaXg0cHB6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6rOhtOcGJapBECjMkb/giphy.gif" width="100%" height="300px" align="center"/>
 
-### About me
-- ⭐ Currently studying **DAM**
-- 👾 A **student** working his way around things
+
+<h2> / about me /</h2>
+
+- ⭐ currently studying **DAM**
+- 👾 a **student** working his way around things
 
 
 ## <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="45px"> Languages
