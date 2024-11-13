@@ -1,9 +1,10 @@
 # David Correa
 
-[English](#english-version) | [Español](#versión-en-español)
+[English](#english-version) | [Español](#espanol-version)
 
 ## English Version
 
+<a id="english-version"></a>
 ### Hi 👋, I'm David Correa
 
 <img alt="Night Coding" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczVqM3F6cGNpeWg3ZGEyZWVjNnAwNTV0eTA3MGJpc3JiaXg0cHB6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6rOhtOcGJapBECjMkb/giphy.gif" width="100%" height="300px" align="center"/>
@@ -19,6 +20,7 @@
 
 ## Versión en Español
 
+<a id="espanol-version"></a>
 ### Hola 👋, soy David Correa
 
 <img alt="Night Coding" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExczVqM3F6cGNpeWg3ZGEyZWVjNnAwNTV0eTA3MGJpc3JiaXg0cHB6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6rOhtOcGJapBECjMkb/giphy.gif" width="100%" height="300px" align="center"/>
@@ -29,3 +31,27 @@
 
 ### Lenguajes
 - JavaScript, SQL, HTML, CSS, JAVA
+
+---
+
+<script>
+  const englishVersion = document.querySelector("#english-version");
+  const espanolVersion = document.querySelector("#espanol-version");
+
+  const languageLinks = document.querySelectorAll("a");
+
+  // Función para mostrar solo la sección correspondiente
+  function toggleLanguage() {
+    if (window.location.hash === "#english-version") {
+      englishVersion.style.display = "block";
+      espanolVersion.style.display = "none";
+    } else if (window.location.hash === "#espanol-version") {
+      englishVersion.style.display = "none";
+      espanolVersion.style.display = "block";
+    }
+  }
+
+  window.addEventListener("hashchange", toggleLanguage);
+
+  toggleLanguage();  // Inicializa la visibilidad según el hash actual
+</script>
