@@ -2,7 +2,7 @@
 
 ## Idiomas
 
-[Ingles](README.md) | [Español](README-es.md)
+[Ingles](README.md)  |  [Español](README-es.md)
 
 ## Hola 👋, soy David Correa
 
