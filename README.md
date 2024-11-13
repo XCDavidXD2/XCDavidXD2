@@ -2,7 +2,7 @@
 
 ## Idioms
 
-[English](READNE.md) |[Spanish](README-es.md)
+[English](READNE.md)  |  [Spanish](README-es.md)
 
 ## Hi 👋, I'm David Correa
 
