@@ -1,6 +1,6 @@
 # David Correa
 
-[Español](README-es.md)
+Idiomas: [English](READNE.md) |[Español](README-es.md)
 
 ## Hi 👋, I'm David Correa
 
