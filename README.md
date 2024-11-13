@@ -1,7 +1,7 @@
 # David Correa
 
-## Hi 👋, I'm David Correa
-
+ <h1 align="center">Hi 👋, I'm David Correa</h1>
+ 
 ## Idioms
 
 [English](READNE.md)  |  [Spanish](README-es.md)
