@@ -22,4 +22,8 @@
 
  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=XCDavidXD2&show_icons=true&theme=dark&locale=en&layout=compact" alt="h-fares" align=center/></p>
 
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=XCDavidXD2&show_icons=true&theme=dark&locale=en" alt="XCDavidXD2" />
+</p>
+
  <p><img src="https://github-readme-stats.vercel.app/api?username=XCDavidXD2&show_icons=true&theme=dark&locale=en" alt="h-fares" align=center/></p>
