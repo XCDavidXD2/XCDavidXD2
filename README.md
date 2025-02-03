@@ -21,9 +21,9 @@
     <animated-image data-catalyst="" style="float: right; width: 100px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5805480959c8789597e4e82278d6d7cfca9d55b739b3f2a74fa01c299db16e5f/68747470733a2f2f6d656469612e74656e6f722e636f6d2f547968574c37674a77506741414141692f706570706f2d64616e63652e676966" data-target="animated-image.originalLink"><img alt="Night Coding" src="https://camo.githubusercontent.com/5805480959c8789597e4e82278d6d7cfca9d55b739b3f2a74fa01c299db16e5f/68747470733a2f2f6d656469612e74656e6f722e636f6d2f547968574c37674a77506741414141692f706570706f2d64616e63652e676966" height="200px" align="right" data-canonical-src="https://media.tenor.com/TyhWL7gJwPgAAAAi/peppo-dance.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
 
  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=XCDavidXD2&show_icons=true&theme=dark&locale=en&layout=compact" alt="h-fares" align=center/></p>
-
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XCDavidXD2&show_icons=true&theme=dark&locale=en" alt="XCDavidXD2" />
+ 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XCDavidXD2&theme=dark" alt="racha de contribuciones" />
 </p>
 
  <p><img src="https://github-readme-stats.vercel.app/api?username=XCDavidXD2&show_icons=true&theme=dark&locale=en" alt="h-fares" align=center/></p>
