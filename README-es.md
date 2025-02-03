@@ -41,6 +41,3 @@ Como desarrollador en formación, estoy constantemente mejorando mis habilidades
 
 ¡Estoy abierto a colaboraciones y oportunidades de aprendizaje! No dudes en contactarme.
 
----
-
-*¡Seguimos aprendiendo y creciendo! 💻✨*
