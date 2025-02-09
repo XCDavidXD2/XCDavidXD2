@@ -28,9 +28,8 @@ I am a passionate student of Multiplatform Application Development (DAM), commit
 ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white)  
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?logo=intellij-idea&logoColor=white)  
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91.svg?logo=visual-studio&logoColor=white)  
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC.svg?logo=visual-studio-code&logoColor=white)  
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?logo=intellij-idea&logoColor=white)
+
 
 ## 📊 GitHub Statistics
 
