@@ -22,7 +22,6 @@ I am a passionate student of Multiplatform Application Development (DAM), commit
 ![CSS3](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120.svg?logo=c-sharp&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white) 
-![PL/SQL](https://img.shields.io/badge/PL/SQL-336791.svg?logo=oracle&logoColor=white)
 
 
 ### Frameworks and Tools
