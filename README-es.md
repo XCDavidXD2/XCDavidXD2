@@ -30,6 +30,8 @@ Soy un estudiante apasionado de Desarrollo de Aplicaciones Multiplataforma (DAM)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white) 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?logo=intellij-idea&logoColor=white)
 ![Odoo](https://img.shields.io/badge/Odoo-512B58.svg?logo=odoo&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000.svg?logo=notion&logoColor=white)
+
 
 ## 📊 Estadísticas de GitHub
 
