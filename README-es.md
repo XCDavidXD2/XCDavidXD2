@@ -21,6 +21,7 @@ Soy un estudiante apasionado de Desarrollo de Aplicaciones Multiplataforma (DAM)
 ![HTML5](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120.svg?logo=c-sharp&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white) 
 
 ### Frameworks y Herramientas
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20.svg?logo=laravel&logoColor=white) 
