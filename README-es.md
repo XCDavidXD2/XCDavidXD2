@@ -23,9 +23,11 @@ Soy un estudiante apasionado de Desarrollo de Aplicaciones Multiplataforma (DAM)
 ![C#](https://img.shields.io/badge/C%23-239120.svg?logo=c-sharp&logoColor=white)
 
 ### Frameworks y Herramientas
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20.svg?logo=laravel&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20.svg?logo=laravel&logoColor=white) 
+![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white) 
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?logo=intellij-idea&logoColor=white)
 
 ## 📊 Estadísticas de GitHub
 
