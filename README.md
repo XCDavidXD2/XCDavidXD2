@@ -96,4 +96,6 @@ As a developer in training, I am constantly improving my skills and exploring ne
 ## 📫 Contact
 
 I am open to collaborations and learning opportunities! Feel free to reach out.
+
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:xcdavidxd16@gmail.com)
+
