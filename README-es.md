@@ -49,3 +49,4 @@ Como desarrollador en formación, estoy constantemente mejorando mis habilidades
 ¡Estoy abierto a colaboraciones y oportunidades de aprendizaje! No dudes en contactarme.
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:xcdavidxd16@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/xcdavidbxd)
