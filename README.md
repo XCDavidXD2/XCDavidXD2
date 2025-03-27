@@ -117,8 +117,10 @@
 
 ###
 
-![Pac-Man Contribution Graph](https://raw.githubusercontent.com/XCDavidXD2/XCDavidXD2/output/pacman-contribution-graph.svg#gh-light-mode-only)
-![Pac-Man Contribution Graph](https://raw.githubusercontent.com/XCDavidXD2/XCDavidXD2/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only)
-
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
+ 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=200"/>
+</p>
 
 ###
