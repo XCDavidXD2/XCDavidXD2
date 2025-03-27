@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="left">English | Español</h4>
+[English](README.md) | [Español](README-es.md)
 
 ###
 
