@@ -127,11 +127,7 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XCDavidXD2/XCDavidXD2/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XCDavidXD2/XCDavidXD2/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/XCDavidXD2/XCDavidXD2/output/pacman-contribution-graph.svg">
-</picture>
+![Animación de contribuciones en forma de serpiente](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
 
 ###
 
