@@ -1,54 +1,126 @@
-# David Correa | Software Developer 🚀
+<h1 align="center">David Correa | Software Developer 🚀</h1>
 
-[English](README.md) | [Español](README-es.md)
-
-## About Me
-
-I am a passionate student of Multiplatform Application Development (DAM), committed to continuous learning and innovative software development.
-
-### 🎓 Current Education
-- Studying Multiplatform Application Development (DAM)
-- Exploring multiple technologies and development frameworks
-
-## 🛠️ Technologies and Tools
-
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343.svg?logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5.svg?logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00.svg?logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120.svg?logo=c-sharp&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white) 
-
-
-### Frameworks and Tools
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20.svg?logo=laravel&logoColor=white) 
-![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white) 
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?logo=intellij-idea&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo-512B58.svg?logo=odoo&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000.svg?logo=notion&logoColor=white)
-
-
-## 📊 GitHub Statistics
+###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=XCDavidXD2&show_icons=true&theme=dark&locale=en&layout=compact" alt="Most Used Languages"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=XCDavidXD2&show_icons=true&theme=dark&locale=en" alt="GitHub Stats"/>
+  <img height="200" src="https://media.tenor.com/BesEP3uFnwkAAAAM/kaoruko-waguri-kaoru-hana-wa-rin-to-saku.gif"  />
 </div>
 
-## 🌟 Motivation
+###
 
-As a developer in training, I am constantly improving my skills and exploring new technologies. My goal is to create innovative and efficient solutions.
+<h4 align="left">English | Español</h4>
 
-## 📫 Contact
+###
 
-I am open to collaborations and learning opportunities! Feel free to reach out.
+<h2 align="left">About Me</h2>
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:xcdavidxd16@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/xcdavidbxd)
+###
 
+<h4 align="left">I am a passionate student of Multiplatform Application Development (DAM), committed to continuous learning and innovative software development.<br><br>🎓 Current Education<br>Studying Multiplatform Application Development (DAM)<br>Exploring multiple technologies and development frameworks</h4>
+
+###
+
+<h2 align="left">🛠️ Technologies and Tools</h2>
+
+###
+
+<h3 align="left">Programming Languages</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+</div>
+
+###
+
+<h3 align="left">Frameworks and Tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+</div>
+
+###
+
+<h3 align="left">📊 GitHub Statistics</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=XCDavidXD2&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=XCDavidXD2&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+</div>
+
+###
+
+<h3 align="left">🌟 Motivation</h3>
+
+###
+
+<h4 align="left">As a developer in training, I am constantly improving my skills and exploring new technologies. My goal is to create innovative and efficient solutions.</h4>
+
+###
+
+<h3 align="left">📫 Contact</h3>
+
+###
+
+<h4 align="left">I am open to collaborations and learning opportunities! Feel free to reach out.</h4>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/david-gustavo-correa-sanchez-206211324/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.com/users/533412162673311744" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="mailto:xcdavidxd16@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XCDavidXD2/XCDavidXD2/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XCDavidXD2/XCDavidXD2/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/XCDavidXD2/XCDavidXD2/output/pacman-contribution-graph.svg">
+</picture>
+
+###
