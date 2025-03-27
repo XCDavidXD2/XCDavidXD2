@@ -121,8 +121,6 @@
  
 ###
 
-<div align="center">
-  <img height="200" src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0340.gif"  />
-</div>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ###
