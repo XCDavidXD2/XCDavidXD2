@@ -8,7 +8,7 @@
 
 ###
 
-[English](README.md) | [Español](README-es.md)
+[English](README.md) | [Spanish](README-es.md)
 
 ###
 
