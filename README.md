@@ -2,12 +2,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://media.tenor.com/BesEP3uFnwkAAAAM/kaoruko-waguri-kaoru-hana-wa-rin-to-saku.gif"  />
-</div>
-
-###
-
 [English](README.md) | [Spanish](README-es.md)
 
 ###
