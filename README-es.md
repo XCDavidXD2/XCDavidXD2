@@ -12,7 +12,13 @@
 
 ###
 
-<h4 align="left">Soy un estudiante apasionado del Desarrollo de Aplicaciones Multiplataforma (DAM), comprometido con el aprendizaje continuo y el desarrollo de software innovador.<br><br>🎓 Educación Actual<br>Estudiando Desarrollo de Aplicaciones Multiplataforma (DAM)<br>Explorando múltiples tecnologías y frameworks de desarrollo</h4>
+<h4 align="left">
+Soy titulado en Desarrollo de Aplicaciones Multiplataforma (DAM) y actualmente trabajo como QA Analyst en Indra. A pesar de mi enfoque profesional en calidad, me apasiona el desarrollo de software y continúo creando mis propias aplicaciones y mejorando mis habilidades de programación.<br><br>
+
+Gran interés en el desarrollo de aplicaciones móviles y multiplataforma<br>
+Aprendiendo continuamente nuevas tecnologías y frameworks<br>
+Creando proyectos personales y explorando soluciones innovadoras
+</h4>
 
 ###
 
