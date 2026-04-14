@@ -10,7 +10,13 @@
 
 ###
 
-<h4 align="left">I am a passionate student of Multiplatform Application Development (DAM), committed to continuous learning and innovative software development.<br><br>🎓 Current Education<br>Studying Multiplatform Application Development (DAM)<br>Exploring multiple technologies and development frameworks</h4>
+<h4 align="left">
+I am a graduate in Multiplatform Application Development (DAM) and currently working as a QA Analyst at Indra. Despite my professional focus on quality assurance, I am deeply passionate about software development and continue building my own applications and improving my programming skills.<br><br>
+
+Strong interest in mobile and multiplatform app development<br>
+Continuously learning new technologies and frameworks<br>
+Building personal projects and exploring innovative solutions
+</h4>
 
 ###
 
