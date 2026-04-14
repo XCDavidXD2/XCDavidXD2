@@ -41,6 +41,8 @@ Creando proyectos personales y explorando soluciones innovadoras
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -75,21 +77,22 @@ Creando proyectos personales y explorando soluciones innovadoras
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="40" alt="digitalocean logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo" />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="postman logo" />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="40" alt="jenkins logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo" />
 </div>
 
 ###
-
 <h3 align="left">📊 Estadísticas de GitHub</h3>
 
 ###
@@ -105,7 +108,11 @@ Creando proyectos personales y explorando soluciones innovadoras
 
 ###
 
-<h4 align="left">Como desarrollador en formación, estoy en constante mejora de mis habilidades y explorando nuevas tecnologías. Mi objetivo es crear soluciones innovadoras y eficientes.</h4>
+<h4 align="left">
+Me encuentro en un proceso constante de crecimiento profesional dentro del sector del software.<br><br>
+Sigo desarrollando aplicaciones personales y explorando nuevas tecnologías, con el objetivo de mejorar mis habilidades tanto en calidad de software como en desarrollo.<br><br>
+Mi motivación es construir soluciones eficientes, escalables e innovadoras dentro del mundo del desarrollo de aplicaciones.
+</h4>
 
 ###
 
